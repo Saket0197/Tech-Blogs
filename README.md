@@ -1,6 +1,6 @@
 # Tech-Blogs
 
-- **Review project at : **
+- **Review project at : https://tech-blogs-saket0197.vercel.app/**
 
 ### The app supports the following functionalities.
 
@@ -12,11 +12,10 @@
 
 - Users can select 'Light' or 'Dark' theme base on their preference.
 
-
 ## 🛠 Tech Used
+
 - **Libraries and Packages:** ReactJS, React-router, React State management using context-api
 
 - **Frameworks:** Tailwind-CSS
 
 - **Deployment:** Vercel
-
